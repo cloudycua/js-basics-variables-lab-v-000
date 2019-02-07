@@ -4,5 +4,4 @@
 // declare variable that can be changed
    let mostProfitableNeighborhood = 'Chelsea';
 
-let companyCeo = "Susan Smith"   
-
+let companyCeo = "Susan Smith"
