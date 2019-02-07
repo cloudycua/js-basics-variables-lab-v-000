@@ -1,5 +1,8 @@
-// Code your solution in this file!
+// declare unchangeable variable
+   const companyName = 'Scuber';
 
-const companyName = 'Scuber';
+// declare variable that can be changed
+   let mostProfitableNeighborhood = 'Chelsea';
 
-let mostProfitableNeighborhood = 'Chelsea';
+let companyCeo = "Susan Smith"   
+
